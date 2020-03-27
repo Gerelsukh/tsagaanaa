@@ -1,0 +1,49 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 27 Mar 2020 19:59:20 at https://www.urgoo.mn/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.urgoo.mn/ -O1 "C:\My Web Sites\tsagaan" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:00:48	Error: 	"Bad Request" (400) at link https://www.urgoo.mn/^([^:/? (from https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js)
+20:00:48	Error: 	"Not Found" (404) at link https://www.urgoo.mn/nw/ (from https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js)
+20:00:48	Error: 	"Not Found" (404) at link https://www.urgoo.mn/GET (from https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js)
+20:00:48	Error: 	"Not Found" (404) at link https://www.urgoo.mn/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js)
+20:00:48	Error: 	"Not Found" (404) at link https://www.urgoo.mn/restserver.php (from https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js)
+20:00:48	Error: 	"Not Found" (404) at link https://www.urgoo.mn/dialog/ (from https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js)
+20:01:27	Error: 	"Not Found" (404) at link https://www.urgoo.mn/POST (from https://connect.facebook.net/en_US/fbevents.js)
+20:01:31	Error: 	"Not Found" (404) at link https://www.urgoo.mn/sites/all/themes/imax/images/btn-play.png (from https://www.urgoo.mn/Content/css_imax.css)
+20:01:31	Error: 	"Not Found" (404) at link https://www.urgoo.mn/sites/all/themes/imax/images/logo_sprite.png (from https://www.urgoo.mn/Content/css_imax.css)
+20:01:31	Error: 	"Not Found" (404) at link https://www.urgoo.mn/sites/all/themes/imax/images/icons-theatre-feature.png (from https://www.urgoo.mn/Content/css_imax.css)
+20:01:31	Error: 	"Not Found" (404) at link https://www.urgoo.mn/sites/all/themes/imax/images/icons-theatre-feature_hover.png (from https://www.urgoo.mn/Content/css_imax.css)
+20:01:31	Error: 	"Not Found" (404) at link https://www.urgoo.mn/sites/all/themes/imax/images/icons-theatre-feature_white.png (from https://www.urgoo.mn/Content/css_imax.css)
+20:01:31	Error: 	"Not Found" (404) at link https://www.urgoo.mn/sites/all/themes/imax/images/bg-btn-map.png (from https://www.urgoo.mn/Content/css_imax.css)
+20:01:31	Error: 	"Not Found" (404) at link https://www.urgoo.mn/sites/all/themes/imax/images/map/marker.png (from https://www.urgoo.mn/Content/css_imax.css)
+20:01:31	Error: 	"Not Found" (404) at link https://www.urgoo.mn/sites/all/themes/imax/images/introl.png (from https://www.urgoo.mn/Content/css_imax.css)
+20:01:31	Error: 	"Not Found" (404) at link https://www.urgoo.mn/sites/all/themes/imax/images/theatres-list.png (from https://www.urgoo.mn/Content/css_imax.css)
+20:01:31	Error: 	"Not Found" (404) at link https://www.urgoo.mn/sites/all/themes/imax/images/svg/search_icon.svg (from https://www.urgoo.mn/Content/css_imax.css)
+20:01:31	Error: 	"Not Found" (404) at link https://www.urgoo.mn/sites/all/themes/imax/images/logo-home.png (from https://www.urgoo.mn/Content/css_imax.css)
+20:01:31	Error: 	"Not Found" (404) at link https://www.urgoo.mn/sites/all/themes/imax/images/icon-error.png (from https://www.urgoo.mn/Content/css_imax.css)
+20:01:31	Error: 	"Not Found" (404) at link https://www.urgoo.mn/sites/all/themes/imax/images/flags.png (from https://www.urgoo.mn/Content/css_imax.css)
+20:01:31	Error: 	"Not Found" (404) at link https://www.urgoo.mn/sites/all/themes/imax/images/menu-search-icons_mobile.png (from https://www.urgoo.mn/Content/css_imax.css)
+20:01:31	Error: 	"Not Found" (404) at link https://www.urgoo.mn/sites/all/themes/imax/images/menu-search-icons_desktop.png (from https://www.urgoo.mn/Content/css_imax.css)
+20:01:31	Error: 	"Not Found" (404) at link https://www.urgoo.mn/sites/all/themes/imax/images/icon-download.png (from https://www.urgoo.mn/Content/css_imax.css)
+20:01:31	Error: 	"Not Found" (404) at link https://www.urgoo.mn/sites/all/themes/imax/images/icon-download-active.png (from https://www.urgoo.mn/Content/css_imax.css)
+20:01:31	Error: 	"Not Found" (404) at link https://www.urgoo.mn/sites/all/themes/imax/images/icon-upload.png (from https://www.urgoo.mn/Content/css_imax.css)
+20:01:31	Error: 	"Not Found" (404) at link https://www.urgoo.mn/images/new/imax/imax_movie_still_02.jpg (from https://www.urgoo.mn/Content/css_imax.css)
+20:01:31	Error: 	"Not Found" (404) at link https://www.urgoo.mn/images/new/imax/imax_movie_still_01.jpg (from https://www.urgoo.mn/Content/css_imax.css)
+20:01:31	Error: 	"Not Found" (404) at link https://www.urgoo.mn/sites/all/modules/colorbox/styles/default/images/controls.png (from https://www.urgoo.mn/Content/css_imax3.css)
+20:01:31	Error: 	"Not Found" (404) at link https://www.urgoo.mn/sites/all/modules/colorbox/styles/default/images/loading_animation.gif (from https://www.urgoo.mn/Content/css_imax3.css)
+20:01:31	Error: 	"Not Found" (404) at link https://www.urgoo.mn/sites/all/modules/ctools/images/status-active.gif (from https://www.urgoo.mn/Content/css_imax3.css)
+20:01:31	Error: 	"Not Found" (404) at link https://www.urgoo.mn/sites/all/libraries/chosen/chosen-sprite.png (from https://www.urgoo.mn/Content/css_imax4.css)
+20:01:31	Error: 	"Not Found" (404) at link https://www.urgoo.mn/sites/all/libraries/chosen/chosen-sprite@2x.png (from https://www.urgoo.mn/Content/css_imax4.css)
+20:01:31	Error: 	"Not Found" (404) at link https://www.urgoo.mn/misc/throbber-inactive.png (from https://www.urgoo.mn/Content/css_imax5.css)
+20:01:31	Error: 	"Not Found" (404) at link https://www.urgoo.mn/misc/throbber-active.gif (from https://www.urgoo.mn/Content/css_imax5.css)
+20:01:31	Error: 	"Not Found" (404) at link https://www.urgoo.mn/misc/grippie.png (from https://www.urgoo.mn/Content/css_imax5.css)
+20:01:31	Error: 	"Not Found" (404) at link https://www.urgoo.mn/misc/draggable.png (from https://www.urgoo.mn/Content/css_imax5.css)
+20:01:31	Error: 	"Not Found" (404) at link https://www.urgoo.mn/misc/tree.png (from https://www.urgoo.mn/Content/css_imax5.css)
+20:01:31	Error: 	"Not Found" (404) at link https://www.urgoo.mn/misc/tree-bottom.png (from https://www.urgoo.mn/Content/css_imax5.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 minutes 51 seconds : 1188 links scanned, 1149 files written (78578695 bytes overall) [78550560 bytes received at 147929 bytes/sec], 555078 bytes transferred using HTTP compression in 2 files, ratio 27%, 1.0 requests per connection
+(38 errors, 0 warnings, 0 messages)

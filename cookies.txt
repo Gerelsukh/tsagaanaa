@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.urgoo.mn	TRUE	/	FALSE	1999999999	ASP.NET_SessionId	5sf3fxsa3zmvrj1x5qcqz1wm
+www.urgoo.mn	TRUE	/	FALSE	1999999999	SameSite	Lax
+www.urgoo.mn	TRUE	/	FALSE	1999999999	__RequestVerificationToken	owTMltWPbwtNswtqFbiuXPa9WaBU-WAQEVo4OVwTjuFbbQBvWZgs0EHg_j2uXFv-TqQ3duYnRCf1iHdFGHtrezRwxzIJw2Z1vFGUycqBsBI1
+
