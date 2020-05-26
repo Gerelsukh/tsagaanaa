@@ -19,7 +19,24 @@
     <meta name="apple-itunes-app" content="app-id=907357719">
     <meta name="google-play-app" content="app-id=com.app.urgoocinema">
     <meta name="application-name" content="urgoo" />
-    
+    <script>
+        const postUrl = "https://api.jsonbin.io/b/5eccbb2918c8475bf170ab1a/latest";   
+        fetch(postUrl)
+        .then(response => response.json())
+        .then(
+            function(data){
+                let returnHTML="";
+                data.news.forEach(element => {
+                    returnHTML += '\
+                    <article> \
+                    <h3 class="newsTitle">' + element.title + '</h3>\
+                    <p class="newsBody">' + element.post + '</p>\
+                    </article>'
+                });
+                document.getElementById("news").innerHTML = returnHTML;
+            }
+            )
+    </script>
 
 
     <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1" />
@@ -280,6 +297,13 @@
         </div>
 
     </div>
+    <div class="mod-div dRow" >
+        <h1 style="background-color: #30ade5; text-align: center; margin-top: 3vh; margin-bottom: 3vh; font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-style: italic;">Today News</h1>
+        <section id="news">
+
+        </section>
+    </div>
+    <div class="mod-div dRow" >
 
     <div class="mod-div dRow" >
 
